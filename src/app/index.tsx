@@ -40,7 +40,7 @@ export default function HomeScreen() {
         </ThemedView>
 
         <ThemedText type="code" style={styles.code}>
-          get started
+          Find a house in Kenya
         </ThemedText>
 
         <ThemedView type="backgroundElement" style={styles.stepContainer}>
